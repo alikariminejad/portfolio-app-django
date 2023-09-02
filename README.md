@@ -2,7 +2,7 @@
 
 
 Building a Portfolio app with Django.     
-Source: https://realpython.com/get-started-with-django-1/
+
 
 
 
@@ -30,3 +30,6 @@ Source: https://realpython.com/get-started-with-django-1/
 `(venv) $ python manage.py runserver`
 
 6-Navigate to `https://localhost:8000` to see website in action.
+
+
+Source: https://realpython.com/get-started-with-django-1/
